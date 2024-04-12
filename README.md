@@ -6,5 +6,6 @@ Projeto desenvolvido durante o curso de NextJS: Tour pelo NextJs
 * NextJs
 * NodeJs
 * skynexui
+* TypeScript
 
 # Este projeto não contem imagens pelo contexto mais teórico
